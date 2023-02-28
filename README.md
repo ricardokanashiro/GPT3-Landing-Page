@@ -29,6 +29,6 @@
 
 <p align="center">
     <video controls>
-        <source src="./readmeSrc/GPT3-responsivity.mp4" type="video/mp4">
+        <source src="./readmeSrc/responsivity.mp4" type="video/mp4">
     </video>
 </p>
