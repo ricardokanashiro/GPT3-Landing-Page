@@ -26,9 +26,4 @@
 <p>This page was developed in a get started React class from <a href="https://www.youtube.com/watch?v=LMagNcngvcU">Javascript Mastery</a> on Youtube, made to learn and train React Library basics. This page provides GPT3 info and news.</p>
 
 ### Responsivity:
-
-<p align="center">
-    <video controls>
-        <source src="./readmeSrc/responsivity.mp4" type="video/mp4">
-    </video>
-</p>
+https://user-images.githubusercontent.com/89729397/221904630-34979be6-0be9-4855-bf62-691ec5e100dc.mp4
